@@ -2,23 +2,26 @@ html{background-color: black;
 }
  
 h1{color: #ffffff;
+font-size: 300%;
+
 }
 p{color: #ffffff;
-
+    font-size: 150%;
 }
 
     div{
 
 img{    height: vpx;
-        width: 100px;
+        width: 150px;
         padding-left: 30px;
         padding-top: 30px;
 }
 
 p{
-    height: 50px;
-    width: 50px;
-    padding-left: 60px;
+    height: 10px;
+    width: 10px;
+    padding-left: 85px;
 color: #ffffff;
+
 }
 }
